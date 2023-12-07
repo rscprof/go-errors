@@ -1,0 +1,4 @@
+{
+	"out_of_range": "Value %d is out of range %d..%d",
+	"cannot_read": "Cannot read a value from stdin"
+}
