@@ -1,4 +1,4 @@
-module go-errors
+module github.com/rscprof/go-errors
 
 go 1.21.4
 
